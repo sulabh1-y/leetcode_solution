@@ -14,15 +14,12 @@ public:
     {
         std:vector<int> a;
         ListNode* temp=head;
-        //int a[100],n=0;
         while(temp!=NULL)
         {
             a.push_back(temp->val);
-            //a[n++]=temp->val;
             temp=temp->next;
         }    
         int i=0,j=a.size()-1;
-        //int i=0.j=n-1;
         while(i<j)
         {
             if(a[i]!=a[j])
