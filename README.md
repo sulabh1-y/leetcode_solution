@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/sulabh1-y/leetcode_solution/tree/master/0682-baseball-game) |
 | [0997-find-the-town-judge](https://github.com/sulabh1-y/leetcode_solution/tree/master/0997-find-the-town-judge) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sulabh1-y/leetcode_solution/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -18,4 +19,12 @@
 |  |
 | ------- |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sulabh1-y/leetcode_solution/tree/master/3232-find-if-digit-game-can-be-won) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sulabh1-y/leetcode_solution/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/sulabh1-y/leetcode_solution/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
