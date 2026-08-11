@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/sulabh1-y/leetcode_solution/tree/master/0997-find-the-town-judge) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sulabh1-y/leetcode_solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Graph Theory
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/sulabh1-y/leetcode_solution/tree/master/2974-minimum-number-game) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/sulabh1-y/leetcode_solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
