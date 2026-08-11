@@ -7,6 +7,7 @@
 | [0682-baseball-game](https://github.com/sulabh1-y/leetcode_solution/tree/master/0682-baseball-game) |
 | [0997-find-the-town-judge](https://github.com/sulabh1-y/leetcode_solution/tree/master/0997-find-the-town-judge) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2974-minimum-number-game](https://github.com/sulabh1-y/leetcode_solution/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sulabh1-y/leetcode_solution/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -45,4 +46,9 @@
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sulabh1-y/leetcode_solution/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+## Two Pointers
+|  |
+| ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 <!---LeetCode Topics End-->
