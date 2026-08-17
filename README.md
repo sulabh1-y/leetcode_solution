@@ -28,6 +28,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2652-sum-multiples](https://github.com/sulabh1-y/leetcode_solution/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/sulabh1-y/leetcode_solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sulabh1-y/leetcode_solution/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Stack
 |  |
