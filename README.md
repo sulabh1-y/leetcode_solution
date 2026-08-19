@@ -73,4 +73,8 @@
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/1486-xor-operation-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/sulabh1-y/leetcode_solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
