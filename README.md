@@ -9,6 +9,7 @@
 | [0997-find-the-town-judge](https://github.com/sulabh1-y/leetcode_solution/tree/master/0997-find-the-town-judge) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2942-find-words-containing-character](https://github.com/sulabh1-y/leetcode_solution/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/sulabh1-y/leetcode_solution/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sulabh1-y/leetcode_solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sulabh1-y/leetcode_solution/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -55,6 +56,7 @@
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sulabh1-y/leetcode_solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2942-find-words-containing-character](https://github.com/sulabh1-y/leetcode_solution/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
