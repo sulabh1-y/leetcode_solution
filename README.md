@@ -31,6 +31,7 @@
 | [2652-sum-multiples](https://github.com/sulabh1-y/leetcode_solution/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sulabh1-y/leetcode_solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sulabh1-y/leetcode_solution/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sulabh1-y/leetcode_solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Stack
 |  |
 | ------- |
