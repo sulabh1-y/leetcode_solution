@@ -6,6 +6,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0682-baseball-game](https://github.com/sulabh1-y/leetcode_solution/tree/master/0682-baseball-game) |
+| [0896-monotonic-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/0896-monotonic-array) |
 | [0997-find-the-town-judge](https://github.com/sulabh1-y/leetcode_solution/tree/master/0997-find-the-town-judge) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
