@@ -30,6 +30,7 @@
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/sulabh1-y/leetcode_solution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2652-sum-multiples](https://github.com/sulabh1-y/leetcode_solution/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sulabh1-y/leetcode_solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/sulabh1-y/leetcode_solution/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/sulabh1-y/leetcode_solution/tree/master/1408-string-matching-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/sulabh1-y/leetcode_solution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
